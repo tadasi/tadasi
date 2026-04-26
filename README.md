@@ -29,13 +29,13 @@ Here are some ideas to get you started:
   - DataDog, Rollbar, Errbit, Airbrake
 - **AI Tools**:
   - Cursor, Claude Code, Devin, NotebookLM
-- **Infrastructures / Public Clouds**:
+- **Infrastructure**:
   - Amazon Web Services, Docker, Google Cloud, Terraform
-- **Hosting Services**:
-  - GitHub, GitLab, Bitbucket
 - **CI/CD**:
   - CircleCI, GitHub Actions
-- **Integrated Development Environment Tools**:
+- **Hosting Services**:
+  - GitHub, GitLab, Bitbucket
+- **IDE / Editor**:
   - Cursor Editor, Visual Studio Code, Vim, IntelliJ IDEA, Sublime Text
 - **External Services**:
   - GMO Payment Gateway, PAY.JP, SendGrid, Algolia
@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=react,svelte,vue,nodejs,laravel" />
 
 ### 🗄️ **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,elasticsearch,dynamodb,mongodb" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### ☁️ **Infrastructure & CI/CD**
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,terraform" />
-<img src="https://skillicons.dev/icons?i=circleci,githubactions" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
 
 ### 🔧 **Other Tools**
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,vim,notion" />
