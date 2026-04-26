@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - **AI Tools**:
   - Cursor, Claude Code, Devin, NotebookLM
 - **Infrastructure**:
-  - Amazon Web Services, Docker, Google Cloud, Terraform
+  - Amazon Web Services, Docker, Google Cloud, Kubernetes、Terraform
 - **CI/CD**:
   - CircleCI, GitHub Actions
 - **Hosting Services**:
