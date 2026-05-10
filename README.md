@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | Infrastructure & CI/CD | Amazon Web Services, Docker, Google Cloud, Kubernetes, Terraform, CircleCI, GitHub Actions |
 | Hosting Services | GitHub, GitLab, Bitbucket |
 | IDE & Editor | Cursor Editor, Visual Studio Code, Vim, IntelliJ IDEA, Sublime Text |
-| Communication Tools | Slack, Notion, Chatwork, Asana, mattermost |
+| Communication Tools | Slack, Notion, Asana, DocBase, Chatwork, mattermost |
 | AI Tools | Cursor, Claude Code, Devin, Gemini, NotebookLM |
 | Other Tools | Git, Figma, Karte, Brabio |
 
