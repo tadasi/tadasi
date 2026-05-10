@@ -19,30 +19,20 @@ Here are some ideas to get you started:
 
 ### [GitHub Pages](https://tadasi.github.io)
 
-## 🛠️ **Tech Stack**
+## 🛠️ **My Tech Stack Experience**
 
-- **Languages（Frameworks or Libraries）**:
-  - Ruby（Rails）, Go（Echo・Gorm・Gin）, TypeScript, JavaScript（Svelte・Vue・React・Node：Puppeteer / Electron・jQuery）, PHP（Laravel・Cake・CodeIgniter）, Python（Flask）, Access VBA
-- **Databases**:
-  - MySQL, PostgreSQL, Redis, Elasticsearch, SQLite, DynamoDB, Neo4j, MongoDB
-- **Monitoring Tools**:
-  - DataDog, Rollbar, Errbit, Airbrake
-- **AI Tools**:
-  - Cursor, Claude Code, Devin, NotebookLM
-- **Infrastructure**:
-  - Amazon Web Services, Docker, Google Cloud, Kubernetes、Terraform
-- **CI/CD**:
-  - CircleCI, GitHub Actions
-- **Hosting Services**:
-  - GitHub, GitLab, Bitbucket
-- **IDE / Editor**:
-  - Cursor Editor, Visual Studio Code, Vim, IntelliJ IDEA, Sublime Text
-- **External Services**:
-  - GMO Payment Gateway, PAY.JP, SendGrid, Algolia
-- **Communication Tools**:
-  - Slack, Notion, Chatwork, Asana, mattermost
-- **Other Tools**:
-  - Git, Figma, Karte, Brabio
+| Categories | Lists |
+| ---- | ---- |
+| Languages & Frameworks | Ruby（Rails）, Go（Echo・Gorm・Gin）, TypeScript, JavaScript（Svelte・Vue・React・Node：Puppeteer / Electron・jQuery）, PHP（Laravel・Cake・CodeIgniter）, Python（Flask） |
+| Databases | MySQL, PostgreSQL, Redis, Elasticsearch, SQLite, DynamoDB, Neo4j, MongoDB |
+| External Services | GMO Payment Gateway, PAY.JP, SendGrid, Algolia |
+| Monitoring Tools | DataDog, Rollbar, Errbit, Airbrake |
+| Infrastructure & CI/CD | Amazon Web Services, Docker, Google Cloud, Kubernetes, Terraform, CircleCI, GitHub Actions |
+| Hosting Services | GitHub, GitLab, Bitbucket |
+| IDE & Editor | Cursor Editor, Visual Studio Code, Vim, IntelliJ IDEA, Sublime Text |
+| Communication Tools | Slack, Notion, Chatwork, Asana, mattermost |
+| AI Tools | Cursor, Claude Code, Devin, Gemini, NotebookLM |
+| Other Tools | Git, Figma, Karte, Brabio |
 
 <table align="center">
 <tr>
@@ -77,6 +67,6 @@ Here are some ideas to get you started:
 
 ## 🔗 **Links**
 
-- [X](https://x.com/tadas1n)
 - [Zenn](https://zenn.dev/tad1310)
 - [Qiita](https://qiita.com/t_a_d)
+- [Speaker Deck](https://speakerdeck.com/tadas1n)
