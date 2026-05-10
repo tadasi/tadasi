@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 | Categories | Lists |
 | ---- | ---- |
-| Languages & Frameworks | Ruby（Rails）, Go（Echo・Gorm・Gin）, TypeScript, JavaScript（Svelte・Vue・React・Node：Puppeteer / Electron・jQuery）, PHP（Laravel・Cake・CodeIgniter）, Python（Flask） |
+| Languages & Frameworks | Ruby(Rails), Go(Echo / Gorm / Gin), TypeScript, JavaScript(Svelte / Vue / React / Node : Puppeteer, Electron / jQuery), PHP(Laravel・Cake・CodeIgniter), Python(Flask) |
 | Databases | MySQL, PostgreSQL, Redis, Elasticsearch, SQLite, DynamoDB, Neo4j, MongoDB |
 | External Services | GMO Payment Gateway, PAY.JP, SendGrid, Algolia |
 | Monitoring Tools | DataDog, Rollbar, Errbit, Airbrake |
